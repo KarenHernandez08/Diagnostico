@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Cybersecurity Maturity Diagnostic",
+  "description": "An interactive tool to assess your organization's cybersecurity maturity across key domains using a questionnaire and visual radar chart. It features an AI-powered analysis to provide actionable recommendations.",
+  "requestFramePermissions": []
+}
